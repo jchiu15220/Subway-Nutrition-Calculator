@@ -2,7 +2,7 @@
 
 An Excel workbook that displays the nutritional information of a customised sandwich and sides from Subway using macros.
 
-### Sheets
+## Sheets
 **There are 10 sheets that contain nutritional information for sandwich ingredients and sides.**
 
 6 of these are used in calculations. All the values in these sheets are for a standard 6-inch sandwich or wrap, unless otherwise specified.
@@ -27,7 +27,7 @@ An Excel workbook that displays the nutritional information of a customised sand
 - Meal UI: Displays the summed nutritional information values of the sandwich and sides
 - Nutritional Info: Displayes nutritional information of each sandwich ingredient and each side
 
-#### Calculators
+## Calculators
 **Sandwich UI**
 1. The user selects their sandwich ingredients in *Sandwich UI*, under Sandwich Form.
 2. The user presses the 'Calculate button', and nutritional information is calculated and displayed in nutritional summary tables in *Sandwich UI (Summary), Meal UI (Summary), Nutritional Info*.
