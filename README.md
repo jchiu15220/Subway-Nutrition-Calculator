@@ -6,12 +6,12 @@ An Excel workbook that calculates and displays the nutritional information of a 
 **There are 10 sheets that contain nutritional information for sandwich ingredients and sides.**
 
 6 of these are used in calculations. All the values in these sheets are for a standard 6-inch sandwich or wrap, unless otherwise specified.
-- Meat: Nutritional information of sandwich meats
-- Bread: Nutritional information of sandwich breads
+- Meat: Nutritional information of meats
+- Bread: Nutritional information of breads
 - Vegetables: Nutritional information of vegetables, both standard size and unit size
-- Cheese: Nutritional information of sandwich cheese, both standard size and unit size
-- Toppings: Nutritional information of sandwich toppings
-- Dressings: Nutritional information of sandwich dressings and seasonings
+- Cheese: Nutritional information of cheeses, both standard size and unit size
+- Toppings: Nutritional information of toppings
+- Dressings: Nutritional information of dressings and seasonings
 
 2 of these are the original nutritional information documents, which were downloaded online from the Subway website.
 - OG sheet 1
